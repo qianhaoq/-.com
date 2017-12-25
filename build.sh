@@ -7,5 +7,5 @@ rm -rf /root/backup/*
 cp -r /root/webroot/* /root/backup/
 
 # cp -r /root/git/raichu.cn/* /var/www/html/
-cp -r /root/git/raichu.cn/* /root/webroot/
+cp -r /root/git/dongmansou.com/* /root/webroot/
 
